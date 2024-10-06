@@ -25,6 +25,8 @@ function App() {
 
   return (
     <>
+      <h2>Excel/CSV to JSON converter</h2>
+      
       <input type="file" onChange={handleFileChange} name="" id="" />
       <button onClick={uploadHandler} >Upload</button>
 
