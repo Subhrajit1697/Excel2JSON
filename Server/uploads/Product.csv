@@ -1,0 +1,13 @@
+product_title,product_image,min_order_quantity,child_category_id,brand_name,search_terms,HSN_code,max_order_quantity
+Maggi,"uploadFiles/185962Screenshot 2023-06-22 182011.png,uploadFiles/189816Screenshot 2023-05-19 225837.png",10,65ddcdb16a22201c53258721,Maggie,MAGGIE,123,10
+Maggi,"uploadFiles/163725Screenshot 2023-05-10 210531.png,uploadFiles/143982Screenshot 2023-05-12 134005.png",5,65ddcdb16a22201c53258756,Pepsi,Hello,123,5
+max test,"uploadFiles/192491Screenshot 2023-05-01 174331.png,uploadFiles/136664Screenshot 2023-05-01 175110.png",5,65ddcdb16a22201c53258765,Britannia,test,123,20
+Fanta,"uploadFiles/140851Screenshot 2023-05-06 233457.png,uploadFiles/126351Screenshot 2023-05-04 192740.png",55,65ddcdb16a22201c53258721,Fanta,"Fanta,soft drinks",123,123
+Bhujiya,"uploadFiles/156661Screenshot 2023-05-16 104506.png,uploadFiles/146672Screenshot 2023-06-08 083814.png",10,65ddcdb16a22201c53258766,Hadiram,"snaks,Bhujia",123654,100
+Sweet Bread,"uploadFiles/144447Screenshot 2023-05-10 085514.png,uploadFiles/125867Screenshot 2023-05-10 210531.png",10,65ddcdb16a22201c53258750,Hadiram,Bread,123,100
+11thDay,"uploadFiles/102987Screenshot 2023-05-06 233752.png,uploadFiles/114944Screenshot 2023-06-13 183710.png",5,65ddcdb16a22201c53258720,Fanta,test,123,11
+11thDay,"uploadFiles/192557Screenshot 2023-06-19 193226.png,uploadFiles/135402Screenshot 2023-06-13 183710.png",2,65ddcdb16a22201c53258757,Pepsi,sss,123,22
+12thday,"uploadFiles/158458Screenshot 2023-05-04 192740.png,uploadFiles/198642Screenshot 2023-05-04 232506.png",5,65ddcdb16a22201c53258750,Britannia,hh,123,55
+Cookies,"uploadFiles/167358Screenshot 2023-05-10 091143.png,uploadFiles/139206Screenshot 2023-05-10 210531.png",22,65ddcdb16a22201c53258768,Nestle,jb,123,233
+Amul Cool,"uploadFiles/170536pw.png,uploadFiles/106251Screenshot 2023-05-05 223556.png",10,65ddcdb16a22201c53258757,Amul,drinks,123,50
+Amul Cool,"uploadFiles/120516Screenshot 2023-05-06 233752.png,uploadFiles/117217Screenshot 2023-05-07 210139.png",66,65ddcdb16a22201c53258750,Britannia,cs,123,222
