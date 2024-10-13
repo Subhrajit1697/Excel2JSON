@@ -11,7 +11,6 @@ function App() {
 
   }
 
-  
   const uploadHandler = async () => {
     const formData = new FormData()
     formData.append('file', file)
