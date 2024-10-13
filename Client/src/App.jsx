@@ -30,7 +30,7 @@ function App() {
       <input type="file" onChange={handleFileChange} name="" id="" />
       <button onClick={uploadHandler} >Upload</button>
 
-      <div style={{display:'flex', justifyContent:'flex-start', border:'2px solid red', textAlign:'left'}} >
+      <div style={{display:'flex', justifyContent:'flex-start', textAlign:'left'}} >
         {jsonResult && <pre>{JSON.stringify(jsonResult, null, 1)}</pre>}
 
       </div>
